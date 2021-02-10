@@ -13,4 +13,3 @@ def assign_rooms(list)
     "Hello, #{name}! You'll be assigned to room #{each_with_index}!"
   end
 end
-
