@@ -22,4 +22,3 @@ def printer(list)
     puts |assignment|
   end
 end
-
