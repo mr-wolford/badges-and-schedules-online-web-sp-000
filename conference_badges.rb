@@ -7,3 +7,7 @@ def batch_badge_creator(list)
     "Hello, my name is #{name}."
   end
 end
+
+def assign_rooms(list)
+  list.collect do |name|
+    "Hello, #{name}! You'll be assigned to room #{each_with_index}!"
